@@ -29,6 +29,8 @@
 
 #### Referências
 
+[Unit testing in JavaScript Part 1 - Why unit testing ?](https://www.youtube.com/watch?v=Eu35xM76kKY)
+
 [Tdd - Lambda 3](https://www.lambda3.com.br/2017/03/podcast-36-tdd/)
 
 [Teste de Software - Imasters](https://imasters.com.br/artigo/9572/software/teste-de-software/?trace=1519021197&source=single)
