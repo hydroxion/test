@@ -1,4 +1,6 @@
 
+[<img src="https://raw.githubusercontent.com/ezefranca/speakerdeck-widget/master/logo-sp.png">](https://speakerdeck.com/sphinxs/tdd-and-bdd)
+
 #### Ferramentas
 
 [Gravit Design](https://www.designer.io)
