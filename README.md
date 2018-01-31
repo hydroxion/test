@@ -1,30 +1,17 @@
 
 #### Ferramentas
 
-	Slide
-
 [Gravit Design](https://www.designer.io)
-
-
-	Editor
 
 [Visual Studio Code](https://code.visualstudio.com)
 
-
-	Interpretador
-
 [Python 3](https://www.python.org/download/releases/3.0/)
-
-
-	Modulos
 
 [Behave](http://pythonhosted.org/behave/)
 
 [Unit Test](https://docs.python.org/3.7/library/unittest.html)
 
-	Container
-
-[Docker](https://www.docker.com) + [Zsh](http://ohmyz.sh)
+[Zsh](http://ohmyz.sh)
 
 
 #### Referências
@@ -66,4 +53,3 @@
 [Mais uma vez … Tdd não é bala de prata !](http://blog.caelum.com.br/mais-uma-vez-tdd-nao-e-bala-de-prata/)
 
 [Testes automatizados de software - Um guia prático](https://www.casadocodigo.com.br/pages/sumario-testes-de-software)
-
