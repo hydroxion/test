@@ -1,21 +1,6 @@
 
 [<img src="https://raw.githubusercontent.com/ezefranca/speakerdeck-widget/master/logo-sp.png">](https://speakerdeck.com/sphinxs/tdd-and-bdd)
 
-#### Ferramentas
-
-[Gravit Design](https://www.designer.io)
-
-[Visual Studio Code](https://code.visualstudio.com)
-
-[Python 3](https://www.python.org/download/releases/3.0/)
-
-[Behave](http://pythonhosted.org/behave/)
-
-[Unit Test](https://docs.python.org/3.7/library/unittest.html)
-
-[Zsh](http://ohmyz.sh)
-
-
 #### Referências
 
 [Unit testing in JavaScript Part 1 - Why unit testing ?](https://www.youtube.com/watch?v=Eu35xM76kKY)
